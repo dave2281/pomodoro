@@ -1,9 +1,9 @@
 class Pomodoro
   @file = "D:\\pomodoro\\attachments\\budilnik.mp3"
   @attr = {
-    work_time: 0.1,
-    short_time_out: 0.1,
-    big_time_out: 0.1,
+    work_time: 25,
+    short_time_out: 5,
+    big_time_out: 15,
     times: 4                # how much loops of 1 lesson you need?
   }
 
